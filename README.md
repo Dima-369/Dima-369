@@ -4,7 +4,7 @@
 
 ### About me 
 
-- 🎖  Technical Project Lead @ [Vero Digital]([https://tryhackme.com](https://www.vero-digital.solutions/))
+- 🎖  Technical Project Lead @ [Vero Digital](https://www.vero-digital.solutions/)
 - ⚡  Creator of [VMT Editor](https://github.com/Dima-369/VMT-Editor)
 - 🌿  My family are avid vegans plus honey, coffee free (thank you [Medical Medium](https://www.medicalmedium.com/) 🙏)
 - 💭  Let's get to know each other
