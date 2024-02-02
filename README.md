@@ -4,7 +4,7 @@
 
 ### About me 
 
-- 🎖  Technical Project Lead @ [Vero Digital](https://www.vero-digital.solutions/)
+- 🎖  Senior Full Stack Developer @ [QuinScape](https://www.quinscape.de/)
 - ⚡  Creator of [VMT Editor](https://github.com/Dima-369/VMT-Editor) and an ever increasing Emacs configuration
 - 🌿  My family are avid vegans and coffee free (thank you [Medical Medium](https://www.medicalmedium.com/) 🙏)
 - 💭  Let's get to know each other
