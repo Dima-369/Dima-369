@@ -1,5 +1,5 @@
 <div align="center">
-<h3> Dima | 💻 Technical Lead | 🌏 Lippstadt, Germany </h3> 
+<h3> Dima | 💻 Senior Full Stack Developer | 🌏 Lippstadt, Germany </h3> 
 </div>
 
 ### About me 
